@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "id":"videox",
+            "name":"VideoX",
+            "description":"A website for picture-in-picture used by a ios Shortcut",
+            "languages":"css / html / js",
+            "url":"https://videox.now.sh/"
+        },
+        {
+            "id":"slowlytm",
+            "name":"SlowlyTM",
+            "description":"A Discord Rich Presence GUI",
+            "languages":"python",
+            "url":"https://github.com/Slowlydev/SlowlyTM"
+        },
+        {
+            "id":"blog-post-creator",
+            "name":"Blog Post Creator",
+            "description":"A Json creator for your blog posts",
+            "languages":"css / html / js",
+            "url":"https://blog-post-creator.now.sh"
+        },
+        {
+            "id":"clean-time",
+            "name":"Clean Time",
+            "description":"A Weather and Time website",
+            "languages":"css / html / js",
+            "url":"https://clean-time.now.sh"
+        },
+        {
+            "id":"heat-studio",
+            "name":"Heat Studio",
+            "description":"A PWA for the game NeedForSpeed Heat",
+            "languages":"js {ionic framework}",
+            "url":"https://heat-studio.now.sh"
+        },
+        {
+            "id":"slowlybot",
+            "name":"Slowlybot",
+            "description":"A Discord bot for my Disocrd server. Press Open to Join my Server!",
+            "languages":"js",
+            "url":"https://discord.com/invite/TvqKa8p"
+        }
+    ]
+}
